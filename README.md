@@ -3,9 +3,11 @@ Two python scripts to take a bunch of html files containing youtube watch histor
 
 beware there may be some unfixed uncommented spaghetti code ahead, but feel free to have a cheeky look
 
-How to use
-- Download your google takeout (u only need youtube history) and extract them
-- Do this every few months just in case. I have found that they typically store history for
-about a year and a half
-- Store the entire takeout file in the folder takeouts
+## How to use
+- Download your google takeout (you only need to select youtube history) and extract them
+- Do this every few months just in case. I have found that they typically store the watch history for
+about a year and a half 
+- Store the entire takeout file in the folder takeouts, such that file hierachy will look like this.
+
+
 - run the datacompiler.py
